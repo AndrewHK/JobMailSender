@@ -1,4 +1,5 @@
 JobMailSender / Andrew Kamel
+Important note : Based on Java 8
 
 This application is used to gracefully spam companies looking for a new job.
 It allows sending a personal email to each company and modify the message, attachments based on the company.
